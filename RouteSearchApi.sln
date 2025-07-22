@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteSearchApi", "src\RouteSearchApi\RouteSearchApi.csproj", "{A34E1299-F9F6-4A23-BB90-AEFCB760997D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutSearchApi.Tests", "src\RouteSearchApiTests\RouteSearchApi.Tests.csproj", "{0C6BC430-2B14-418A-A881-2BF4FE29F836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34E1299-F9F6-4A23-BB90-AEFCB760997D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34E1299-F9F6-4A23-BB90-AEFCB760997D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34E1299-F9F6-4A23-BB90-AEFCB760997D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34E1299-F9F6-4A23-BB90-AEFCB760997D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6BC430-2B14-418A-A881-2BF4FE29F836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6BC430-2B14-418A-A881-2BF4FE29F836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6BC430-2B14-418A-A881-2BF4FE29F836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6BC430-2B14-418A-A881-2BF4FE29F836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

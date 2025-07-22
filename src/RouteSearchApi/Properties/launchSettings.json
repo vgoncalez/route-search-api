@@ -1,0 +1,13 @@
+{
+    "profiles": {
+        "RouteSearchApi": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "launchUrl": "swagger",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "applicationUrl": "https://localhost:58131;http://localhost:58132"
+        }
+    }
+}
